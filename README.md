@@ -1,16 +1,28 @@
-# expenss_app
+# Expenss App
 
-A new Flutter project.
+A Flutter app for tracking personal expenses, integrated with Firebase for cloud data storage and retrieval.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new expense entries with title, amount, and category.
+- View a list of all expenses.
+- Real-time data sync with Firebase using REST API.
+- Clean and intuitive UI.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase (Realtime Database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Clone the repository.
+2. Set up Firebase project and configure it in the app.
+3. Run `flutter pub get`
+4. Run `flutter run`
+
+## Author
+
+Haider Hussein Ali  
+[LinkedIn Profile](https://www.linkedin.com/in/haider-hussein-44043422a)
